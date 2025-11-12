@@ -1,6 +1,7 @@
 venv/
 tests/
 Result/
+Data/
 **/*.py[oc]
 **/__pycache__/*
 **/*.log

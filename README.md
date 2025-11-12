@@ -20,3 +20,9 @@ python3 -m modules.get_categories
 ```sh
 python3 -m modules.parser_page https://www.fyple.com/company/al-muhajreen-o88zgx3/ 'test category'
 ```
+
+## Парсинг категорий
+Параметром указываем url
+```sh
+python3 -m modules.get_companies https://www.fyple.com/category/construction-contractor
+```
