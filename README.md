@@ -26,3 +26,17 @@ python3 -m modules.parser_page https://www.fyple.com/company/al-muhajreen-o88zgx
 ```sh
 python3 -m modules.get_companies https://www.fyple.com/category/construction-contractor
 ```
+
+## Запуск парсера
+собираем категории
+```sh
+python3 -m modules.get_categories
+```
+Парсим компании по категориям
+```sh
+python3 __main__.py --category
+```
+Парсим сами компании
+```sh
+python3 __main__.py --company
+```
