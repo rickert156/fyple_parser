@@ -14,3 +14,9 @@ python3 -m modules.test_requests --test-url=https://github.com
 ```sh
 python3 -m modules.get_categories
 ```
+
+## Парсинг одной страницы
+Необходимо передать первым параметром URL. Bторым параметром можно добавить категорию, опционально
+```sh
+python3 -m modules.parser_page https://www.fyple.com/company/al-muhajreen-o88zgx3/ 'test category'
+```
