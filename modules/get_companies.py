@@ -99,7 +99,6 @@ def parser_categories(url:str, category:str=None) -> None:
                 if count_requests == max_page:
                     break
 
-                time.sleep(1)
     except KeyboardInterrupt:
         sys.exit(f'\n{log_time()} {status_type_info} Exit...')
 
