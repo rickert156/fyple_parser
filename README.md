@@ -2,7 +2,7 @@
 
 ## Установка
 ```sh
-git clone <url> && cd parser && python3 -m venv venv && ./venv/bin/pip install -r requirements.txt
+git clone https://github.com/rickert156/fyple_parser && cd fyple_parser && python3 -m venv venv && ./venv/bin/pip install -r requirements.txt
 ```
 
 ### Режим отладки
