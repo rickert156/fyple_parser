@@ -71,7 +71,7 @@ def parser_categories(url:str, category:str=None) -> None:
         while True:
             count_requests+=1
             head = header()
-            full_url = f'{url}/page/{count_requests}/'
+            full_url = f'{url}page/{count_requests}/'
             if full_url not in list_complite_url:
                 response = requests.get(full_url, headers=head)
                 status_code = response.status_code
@@ -106,8 +106,11 @@ def parser_categories(url:str, category:str=None) -> None:
 if __name__ == '__main__':
     params = sys.argv
     if len(params) > 1 and 'https://www.fyple.com/category/' in params[1]:
+        category = None
         url = params[1]
-        parser_categories(url=url)
+        if len(params) > 2:
+            category = params[2]
+        parser_categories(url=url, category=category)
     else:
         print(
                 f'{log_time()} {status_type_warning} Пример использования\n'

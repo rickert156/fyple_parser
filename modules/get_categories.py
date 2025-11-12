@@ -18,15 +18,17 @@ from SinCity.Agent.header import header
 #######################################
 #           Пишем результат           #
 #######################################
-def recording_categories(categories:list[str]) -> None:
+def recording_categories(categories:list[dict]) -> None:
     with open(categories_file, 'w') as file:
         writer = csv.writer(file)
-        writer.writerow(['id', 'category'])
+        writer.writerow(['id', 'category', 'url'])
 
     with open(categories_file, 'a') as file:
         writer = csv.writer(file)
-        for id_, category in enumerate(categories, start=1):
-            writer.writerow([id_, category])
+        for id_, category_info in enumerate(categories, start=1):
+            category = category_info.get('category')
+            url = category_info.get('url')
+            writer.writerow([id_, category, url])
 
         print(f'{log_time()} {status_type_info} Категории записаны:\t\t{categories_file}')
 
@@ -62,8 +64,9 @@ def get_categories():
         if full_list_url:
             number_link = 0
 
-            categories_list = set()
-            subcategories_list = list()
+            categories_list = []
+            subcategories_list = []
+            categories_check_list = set()
             
             for link in full_list_url:
                 subcategory = link.get_text()
@@ -71,9 +74,12 @@ def get_categories():
                 if link:
                     number_link+=1
                     category = link.split('/category/')[1].split('/')[0]
+                    category_url = f'https://www.fyple.com/category/{category}/'
                     if '-' in category:category = category.replace('-', ' ')
                     category = category.title()
-                    categories_list.add(category)
+                    if category not in categories_check_list:
+                        categories_check_list.add(category)
+                        categories_list.append({'category':category, 'url':category_url})
                     link = f'https://www.fyple.com{link}'
                     
                     subcategory_info = {

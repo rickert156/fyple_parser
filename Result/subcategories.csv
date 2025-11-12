@@ -1,0 +1,522 @@
+id,category,subcategory,url
+1,Construction Contractor,Construction Services,https://www.fyple.com/category/construction-contractor/construction-service/
+2,Construction Contractor,Builders,https://www.fyple.com/category/construction-contractor/builder/
+3,Construction Contractor,Central Heating & Air Conditioning,https://www.fyple.com/category/construction-contractor/central-heating-air-conditioning/
+4,Construction Contractor,Building Materials,https://www.fyple.com/category/construction-contractor/building-material/
+5,Construction Contractor,Landscaping,https://www.fyple.com/category/construction-contractor/landscaping/
+6,Construction Contractor,Plumbers,https://www.fyple.com/category/construction-contractor/plumber/
+7,Construction Contractor,Garden & Outdoor,https://www.fyple.com/category/construction-contractor/garden-outdoor/
+8,Construction Contractor,Locksmiths,https://www.fyple.com/category/construction-contractor/locksmith/
+9,Construction Contractor,Roofing,https://www.fyple.com/category/construction-contractor/roofing/
+10,Construction Contractor,Flooring,https://www.fyple.com/category/construction-contractor/flooring/
+11,Construction Contractor,Decorators,https://www.fyple.com/category/construction-contractor/decorator/
+12,Construction Contractor,Electricians,https://www.fyple.com/category/construction-contractor/electrician/
+13,Construction Contractor,Painting,https://www.fyple.com/category/construction-contractor/painting/
+14,Construction Contractor,Water Damage Restoration Services,https://www.fyple.com/category/construction-contractor/water-damage-restoration-service/
+15,Construction Contractor,Engineers,https://www.fyple.com/category/construction-contractor/engineer/
+16,Construction Contractor,Graphic Designers,https://www.fyple.com/category/construction-contractor/graphic-designer/
+17,Construction Contractor,Handymans,https://www.fyple.com/category/construction-contractor/handyman/
+18,Construction Contractor,Pressure Washing Services,https://www.fyple.com/category/construction-contractor/pressure-washing-service/
+19,Construction Contractor,Equipment Rental Agencies,https://www.fyple.com/category/construction-contractor/equipment-rental-agency/
+20,Construction Contractor,Architectural Services,https://www.fyple.com/category/construction-contractor/architectural-service/
+21,Construction Contractor,Welders,https://www.fyple.com/category/construction-contractor/welder/
+22,Construction Contractor,Land Surveyors,https://www.fyple.com/category/construction-contractor/land-surveyor/
+23,Construction Contractor,Woodworkers,https://www.fyple.com/category/construction-contractor/woodworker/
+24,Construction Contractor,Sewing Machine Repair Services,https://www.fyple.com/category/construction-contractor/sewing-machine-repair-service/
+25,Construction Contractor,Engravers,https://www.fyple.com/category/construction-contractor/engraver/
+26,Construction Contractor,Hose Suppliers,https://www.fyple.com/category/construction-contractor/hose-supplier/
+27,Construction Contractor,Dump Truck Services,https://www.fyple.com/category/construction-contractor/dump-truck-service/
+28,Construction Contractor,Sandblasting Services,https://www.fyple.com/category/construction-contractor/sandblasting-service/
+29,Construction Contractor,Carpenters,https://www.fyple.com/category/construction-contractor/carpenter/
+30,Construction Contractor,Sharpening Services,https://www.fyple.com/category/construction-contractor/sharpening-service/
+31,Construction Contractor,Elevator Services,https://www.fyple.com/category/construction-contractor/elevator-service/
+32,Construction Contractor,Embroideries,https://www.fyple.com/category/construction-contractor/embroidery/
+33,Construction Contractor,Lamination Services,https://www.fyple.com/category/construction-contractor/lamination-service/
+34,Construction Contractor,Graffiti Removal Services,https://www.fyple.com/category/construction-contractor/graffiti-removal-service/
+35,Construction Contractor,Welding Gas Suppliers,https://www.fyple.com/category/construction-contractor/welding-gas-supplier/
+36,Construction Contractor,Surveyors,https://www.fyple.com/category/construction-contractor/surveyor/
+37,Construction Contractor,Blueprint Services,https://www.fyple.com/category/construction-contractor/blueprint-service/
+38,Construction Contractor,Laser Cutting Services,https://www.fyple.com/category/construction-contractor/laser-cutting-service/
+39,Construction Contractor,Blacksmiths,https://www.fyple.com/category/construction-contractor/blacksmith/
+40,Construction Contractor,Laser Equipment Suppliers,https://www.fyple.com/category/construction-contractor/laser-equipment-supplier/
+41,Construction Contractor,Water Jet Cutting Services,https://www.fyple.com/category/construction-contractor/water-jet-cutting-service/
+42,Construction Contractor,Metal Polishing Services,https://www.fyple.com/category/construction-contractor/metal-polishing-service/
+43,Construction Contractor,Barrel Suppliers,https://www.fyple.com/category/construction-contractor/barrel-supplier/
+44,Construction Contractor,Fur Services,https://www.fyple.com/category/construction-contractor/fur-service/
+45,Construction Contractor,Glass Etching Services,https://www.fyple.com/category/construction-contractor/glass-etching-service/
+46,Construction Contractor,Soil Testing Services,https://www.fyple.com/category/construction-contractor/soil-testing-service/
+47,Construction Contractor,Helium Gas Suppliers,https://www.fyple.com/category/construction-contractor/helium-gas-supplier/
+48,Construction Contractor,Metal Detecting Equipment Suppliers,https://www.fyple.com/category/construction-contractor/metal-detecting-equipment-supplier/
+49,Construction Contractor,Basket Suppliers,https://www.fyple.com/category/construction-contractor/basket-supplier/
+50,Construction Contractor,Furriers,https://www.fyple.com/category/construction-contractor/furrier/
+51,Construction Contractor,Glaziers,https://www.fyple.com/category/construction-contractor/glazier/
+52,Health Beauty,Doctors and Clinics,https://www.fyple.com/category/health-beauty/doctor-and-clinic/
+53,Health Beauty,Health Services,https://www.fyple.com/category/health-beauty/health-service/
+54,Health Beauty,Dentists,https://www.fyple.com/category/health-beauty/dentist/
+55,Health Beauty,Beauty Salons,https://www.fyple.com/category/health-beauty/beauty-salon/
+56,Health Beauty,Hair,https://www.fyple.com/category/health-beauty/hair/
+57,Health Beauty,Pharmaceuticals ,https://www.fyple.com/category/health-beauty/pharmaceutical/
+58,Health Beauty,Eye Care,https://www.fyple.com/category/health-beauty/eye-care/
+59,Health Beauty,Alternative Medicines,https://www.fyple.com/category/health-beauty/alternative-medicine/
+60,Health Beauty,Laboratories,https://www.fyple.com/category/health-beauty/laboratory/
+61,Health Beauty,Nail Salons,https://www.fyple.com/category/health-beauty/nail-salon/
+62,Health Beauty,Spas,https://www.fyple.com/category/health-beauty/spa/
+63,Health Beauty,Diet Centers,https://www.fyple.com/category/health-beauty/diet-center/
+64,Health Beauty,Counselors,https://www.fyple.com/category/health-beauty/counselor/
+65,Health Beauty,Cosmetics Stores,https://www.fyple.com/category/health-beauty/cosmetic-store/
+66,Health Beauty,Residential Care Homes,https://www.fyple.com/category/health-beauty/residential-care-home/
+67,Health Beauty,Vitamin & Supplements Stores,https://www.fyple.com/category/health-beauty/vitamin-supplement-store/
+68,Health Beauty,Skin Care,https://www.fyple.com/category/health-beauty/skin-care/
+69,Health Beauty,Body Piercing Shops,https://www.fyple.com/category/health-beauty/body-piercing-shop/
+70,Health Beauty,Blood Donation Centers,https://www.fyple.com/category/health-beauty/blood-donation-center/
+71,Health Beauty,Tattoo Removal Services,https://www.fyple.com/category/health-beauty/tattoo-removal-service/
+72,Health Beauty,Aromatherapy Services,https://www.fyple.com/category/health-beauty/aromatherapy-service/
+73,Health Beauty,Aromatherapy Supply Stores,https://www.fyple.com/category/health-beauty/aromatherapy-supply-store/
+74,Health Beauty,Blood Testing Services,https://www.fyple.com/category/health-beauty/blood-testing-service/
+75,Health Beauty,Ear Piercing Services,https://www.fyple.com/category/health-beauty/ear-piercing-service/
+76,Health Beauty,Pathologists,https://www.fyple.com/category/health-beauty/pathologist/
+77,Shopping Service,Clothing and Accessories,https://www.fyple.com/category/shopping-service/clothing-and-accessory/
+78,Shopping Service,Specialty Stores,https://www.fyple.com/category/shopping-service/specialty-store/
+79,Shopping Service,Shopping Venues,https://www.fyple.com/category/shopping-service/shopping-venue/
+80,Shopping Service,"Holidays, Weddings & Special Occasions",https://www.fyple.com/category/shopping-service/holiday-wedding-special-occasion/
+81,Shopping Service,Convenience stores,https://www.fyple.com/category/shopping-service/convenience-store/
+82,Shopping Service,Gifts,https://www.fyple.com/category/shopping-service/gift/
+83,Shopping Service,Jewelleries,https://www.fyple.com/category/shopping-service/jewellery/
+84,Shopping Service,Books,https://www.fyple.com/category/shopping-service/book/
+85,Shopping Service,Hobbies & Crafts,https://www.fyple.com/category/shopping-service/hobby-craft/
+86,Shopping Service,Discount & Used Merchandises,https://www.fyple.com/category/shopping-service/discount-used-merchandise/
+87,Shopping Service,Antiques & Collectibles,https://www.fyple.com/category/shopping-service/antique-collectible/
+88,Shopping Service,Florists,https://www.fyple.com/category/shopping-service/florist/
+89,Shopping Service,Fashion Accessories,https://www.fyple.com/category/shopping-service/fashion-accessory/
+90,Shopping Service,Toys & Games,https://www.fyple.com/category/shopping-service/toy-game/
+91,Shopping Service,Offices,https://www.fyple.com/category/shopping-service/office/
+92,Shopping Service,Baby Products & Services,https://www.fyple.com/category/shopping-service/baby-product-service/
+93,Shopping Service,Online & Catalog Shopping,https://www.fyple.com/category/shopping-service/online-catalog-shopping/
+94,Shopping Service,Packaging Supply Stores,https://www.fyple.com/category/shopping-service/packaging-supply-store/
+95,Shopping Service,Warehouses,https://www.fyple.com/category/shopping-service/warehouse/
+96,Shopping Service,Watch Repair Services,https://www.fyple.com/category/shopping-service/watch-repair-service/
+97,Shopping Service,Warehousing Services,https://www.fyple.com/category/shopping-service/warehousing-service/
+98,Shopping Service,Perfume Stores,https://www.fyple.com/category/shopping-service/perfume-store/
+99,Shopping Service,Plastic Bag Suppliers,https://www.fyple.com/category/shopping-service/plastic-bag-supplier/
+100,Shopping Service,Wheelchair Rental Services,https://www.fyple.com/category/shopping-service/wheelchair-rental-service/
+101,Shopping Service,Wheelchair Repair Services,https://www.fyple.com/category/shopping-service/wheelchair-repair-service/
+102,Shopping Service,Cutlery Stores,https://www.fyple.com/category/shopping-service/cutlery-store/
+103,Automotive,Auto Repair & Services,https://www.fyple.com/category/automotive/auto-repair-service/
+104,Automotive,Auto Parts,https://www.fyple.com/category/automotive/auto-part/
+105,Automotive,Auto Dealers,https://www.fyple.com/category/automotive/auto-dealer/
+106,Automotive,Vehicle Services,https://www.fyple.com/category/automotive/vehicle-service/
+107,Automotive,Used Cars & Parts,https://www.fyple.com/category/automotive/used-car-part/
+108,Automotive,Gas Stations,https://www.fyple.com/category/automotive/gas-station/
+109,Automotive,Trucks & Trailers,https://www.fyple.com/category/automotive/trucks-trailer/
+110,Automotive,Auto Rentals,https://www.fyple.com/category/automotive/auto-rental/
+111,Automotive,Auto Insurances,https://www.fyple.com/category/automotive/auto-insurance/
+112,Automotive,Motorcycle Dealers,https://www.fyple.com/category/automotive/motorcycle-dealer/
+113,Automotive,Tires,https://www.fyple.com/category/automotive/tire/
+114,Automotive,Commuter & Public Transportation,https://www.fyple.com/category/automotive/commuter-public-transportation/
+115,Automotive,Taxis,https://www.fyple.com/category/automotive/taxi/
+116,Automotive,Transports,https://www.fyple.com/category/automotive/transport/
+117,Automotive,Bicycles,https://www.fyple.com/category/automotive/bicycle/
+118,Automotive,RV,https://www.fyple.com/category/automotive/rv/
+119,Automotive,Parking,https://www.fyple.com/category/automotive/parking/
+120,Automotive,Driving Schools,https://www.fyple.com/category/automotive/driving-school/
+121,Automotive,Motor Sports,https://www.fyple.com/category/automotive/motor-sport/
+122,Automotive,Auto Securities,https://www.fyple.com/category/automotive/auto-security/
+123,Automotive,Kerosene Suppliers,https://www.fyple.com/category/automotive/kerosene-supplier/
+124,Home Garden,Cleaning Services,https://www.fyple.com/category/home-garden/cleaning-service/
+125,Home Garden,Furnitures,https://www.fyple.com/category/home-garden/furniture/
+126,Home Garden,Appliances,https://www.fyple.com/category/home-garden/appliance/
+127,Home Garden,Lawn & Gardens,https://www.fyple.com/category/home-garden/lawn-garden/
+128,Home Garden,Bed & Bath,https://www.fyple.com/category/home-garden/bed-bath/
+129,Home Garden,Home Remodeling & Repair,https://www.fyple.com/category/home-garden/home-remodeling-repair/
+130,Home Garden,Tree Services,https://www.fyple.com/category/home-garden/tree-service/
+131,Home Garden,Kitchen Remodelers,https://www.fyple.com/category/home-garden/kitchen-remodeler/
+132,Home Garden,Self-Storage Facilities,https://www.fyple.com/category/home-garden/self-storage-facility/
+133,Home Garden,Pools,https://www.fyple.com/category/home-garden/pool/
+134,Home Garden,Carpet Stores,https://www.fyple.com/category/home-garden/carpet-store/
+135,Home Garden,Cable & TV,https://www.fyple.com/category/home-garden/cable-tv/
+136,Home Garden,Garages,https://www.fyple.com/category/home-garden/garage/
+137,Home Garden,Garbage Collection Services,https://www.fyple.com/category/home-garden/garbage-collection-service/
+138,Home Garden,Waste Management Services,https://www.fyple.com/category/home-garden/waste-management-service/
+139,Home Garden,Window Treatment Stores,https://www.fyple.com/category/home-garden/window-treatment-store/
+140,Home Garden,Upholstery Shops,https://www.fyple.com/category/home-garden/upholstery-shop/
+141,Home Garden,Satellite and Cable Television Sales and Installation Services,https://www.fyple.com/category/home-garden/satellite-and-cable-television-sales-and-installation-service/
+142,Home Garden,Fence Supply Stores,https://www.fyple.com/category/home-garden/fence-supply-store/
+143,Home Garden,Mobile Home Parks,https://www.fyple.com/category/home-garden/mobile-home-park/
+144,Home Garden,Home Improvement Stores,https://www.fyple.com/category/home-garden/home-improvement-store/
+145,Home Garden,Glass & Mirror Shops,https://www.fyple.com/category/home-garden/glass-mirror-shop/
+146,Home Garden,Lighting Stores,https://www.fyple.com/category/home-garden/lighting-store/
+147,Home Garden,Fireplace Stores,https://www.fyple.com/category/home-garden/fireplace-store/
+148,Home Garden,Modular Home Dealers,https://www.fyple.com/category/home-garden/modular-home-dealer/
+149,Home Garden,Snow Removal Services,https://www.fyple.com/category/home-garden/snow-removal-service/
+150,Home Garden,Laundromats,https://www.fyple.com/category/home-garden/laundromat/
+151,Home Garden,Home Goods Stores,https://www.fyple.com/category/home-garden/home-goods-store/
+152,Home Garden,Key Duplication Services,https://www.fyple.com/category/home-garden/key-duplication-service/
+153,Home Garden,Pottery Stores,https://www.fyple.com/category/home-garden/pottery-store/
+154,Home Garden,Mobile Home Dealers,https://www.fyple.com/category/home-garden/mobile-home-dealer/
+155,Home Garden,Light Bulb Suppliers,https://www.fyple.com/category/home-garden/light-bulb-supplier/
+156,Home Garden,Wood Stove Shops,https://www.fyple.com/category/home-garden/wood-stove-shop/
+157,Home Garden,Wallpaper Stores,https://www.fyple.com/category/home-garden/wallpaper-store/
+158,Home Garden,Linens Stores,https://www.fyple.com/category/home-garden/linen-store/
+159,Home Garden,Firewood Suppliers,https://www.fyple.com/category/home-garden/firewood-supplier/
+160,Home Garden,House Sitters,https://www.fyple.com/category/home-garden/house-sitter/
+161,Home Garden,Shelving Stores,https://www.fyple.com/category/home-garden/shelving-store/
+162,Home Garden,Mobile Home Supply Stores,https://www.fyple.com/category/home-garden/mobile-home-supply-store/
+163,Home Garden,Interior Plant Services,https://www.fyple.com/category/home-garden/interior-plant-service/
+164,Home Garden,Grill Stores,https://www.fyple.com/category/home-garden/grill-store/
+165,Home Garden,Utilities,https://www.fyple.com/category/home-garden/utility/
+166,Home Garden,Screen Stores,https://www.fyple.com/category/home-garden/screen-store/
+167,Home Garden,Curtains,https://www.fyple.com/category/home-garden/curtain/
+168,Home Garden,Time and Temperature Announcement Services,https://www.fyple.com/category/home-garden/time-and-temperature-announcement-service/
+169,Home Garden,Wicker Stores,https://www.fyple.com/category/home-garden/wicker-store/
+170,Organisations Government,"Churches, Mosques and Synagogues",https://www.fyple.com/category/organisations-government/church-mosque-and-synagogue/
+171,Organisations Government,Local Government,https://www.fyple.com/category/organisations-government/local-government/
+172,Organisations Government,Social Services Organizations,https://www.fyple.com/category/organisations-government/social-service-organization/
+173,Organisations Government,Fire Protection,https://www.fyple.com/category/organisations-government/fire-protection/
+174,Organisations Government,Justice,https://www.fyple.com/category/organisations-government/justice/
+175,Organisations Government,Nature Preserve,https://www.fyple.com/category/organisations-government/nature-preserve/
+176,Organisations Government,Community Centres,https://www.fyple.com/category/organisations-government/community-centre/
+177,Organisations Government,Non-Profit Organizations,https://www.fyple.com/category/organisations-government/non-profit-organization/
+178,Organisations Government,Funeral Homes,https://www.fyple.com/category/organisations-government/funeral-home/
+179,Organisations Government,Cemeteries,https://www.fyple.com/category/organisations-government/cemetery/
+180,Organisations Government,Associations,https://www.fyple.com/category/organisations-government/association/
+181,Organisations Government,Police Stations,https://www.fyple.com/category/organisations-government/police-station/
+182,Organisations Government,Religious Organisations,https://www.fyple.com/category/organisations-government/religious-organisation/
+183,Organisations Government,Day Care Centers,https://www.fyple.com/category/organisations-government/day-care-center/
+184,Organisations Government,Business & Professional Organisations,https://www.fyple.com/category/organisations-government/business-professional-organisation/
+185,Organisations Government,Military,https://www.fyple.com/category/organisations-government/military/
+186,Organisations Government,Family,https://www.fyple.com/category/organisations-government/family/
+187,Organisations Government,Youth Organizations,https://www.fyple.com/category/organisations-government/youth-organization/
+188,Organisations Government,Safety Organizations,https://www.fyple.com/category/organisations-government/safety-organization/
+189,Organisations Government,Masonic Lodges & Fraternal Organisations,https://www.fyple.com/category/organisations-government/masonic-lodges-fraternal-organisation/
+190,Organisations Government,Post Offices,https://www.fyple.com/category/organisations-government/post-office/
+191,Organisations Government,Public Works Departments,https://www.fyple.com/category/organisations-government/public-work-department/
+192,Organisations Government,Public Swimming Pools,https://www.fyple.com/category/organisations-government/public-swimming-pool/
+193,Organisations Government,Adult Organizations,https://www.fyple.com/category/organisations-government/adult-organization/
+194,Organisations Government,Charities,https://www.fyple.com/category/organisations-government/charity/
+195,Organisations Government,Labour Association Services,https://www.fyple.com/category/organisations-government/labour-association-service/
+196,Organisations Government,Garbage Dump Services,https://www.fyple.com/category/organisations-government/garbage-dump-service/
+197,Organisations Government,Convents,https://www.fyple.com/category/organisations-government/convent/
+198,Organisations Government,Research Foundations,https://www.fyple.com/category/organisations-government/research-foundation/
+199,Organisations Government,Temples,https://www.fyple.com/category/organisations-government/temple/
+200,Organisations Government,Housing Authorities,https://www.fyple.com/category/organisations-government/housing-authority/
+201,Organisations Government,Adoption Agencies,https://www.fyple.com/category/organisations-government/adoption-agency/
+202,Organisations Government,Mediation Services,https://www.fyple.com/category/organisations-government/mediation-service/
+203,Organisations Government,Retreat Centers,https://www.fyple.com/category/organisations-government/retreat-center/
+204,Organisations Government,Immigration & Naturalization Services,https://www.fyple.com/category/organisations-government/immigration-naturalization-service/
+205,Organisations Government,Passport Photo Processors,https://www.fyple.com/category/organisations-government/passport-photo-processor/
+206,Organisations Government,Humane Societies,https://www.fyple.com/category/organisations-government/humane-society/
+207,Organisations Government,Meditation Instructors,https://www.fyple.com/category/organisations-government/meditation-instructor/
+208,Organisations Government,Embassies and High Commissions,https://www.fyple.com/category/organisations-government/embassy-and-high-commission/
+209,Organisations Government,Urban Planning Departments,https://www.fyple.com/category/organisations-government/urban-planning-department/
+210,Organisations Government,Group Homes,https://www.fyple.com/category/organisations-government/group-home/
+211,Organisations Government,Smog Inspection Stations,https://www.fyple.com/category/organisations-government/smog-inspection-station/
+212,Organisations Government,Landfills,https://www.fyple.com/category/organisations-government/landfill/
+213,Organisations Government,Foster Care Services,https://www.fyple.com/category/organisations-government/foster-care-service/
+214,Organisations Government,Volunteer Organizations,https://www.fyple.com/category/organisations-government/volunteer-organization/
+215,Organisations Government,Veteran Organizations,https://www.fyple.com/category/organisations-government/veteran-organization/
+216,Organisations Government,Homeless Shelters,https://www.fyple.com/category/organisations-government/homeless-shelter/
+217,Organisations Government,Social Security Offices,https://www.fyple.com/category/organisations-government/social-security-office/
+218,Organisations Government,Donations Centers,https://www.fyple.com/category/organisations-government/donation-center/
+219,Organisations Government,Foundations,https://www.fyple.com/category/organisations-government/foundation/
+220,Organisations Government,Missions,https://www.fyple.com/category/organisations-government/mission/
+221,Organisations Government,Fingerprinting Services,https://www.fyple.com/category/organisations-government/fingerprinting-service/
+222,Organisations Government,Drinking Water Fountains,https://www.fyple.com/category/organisations-government/drinking-water-fountain/
+223,Organisations Government,Weather Forecast Services,https://www.fyple.com/category/organisations-government/weather-forecast-service/
+224,Organisations Government,Organizations,https://www.fyple.com/category/organisations-government/organization/
+225,Organisations Government,Visa Services,https://www.fyple.com/category/organisations-government/visa-service/
+226,Organisations Government,Polygraph Services,https://www.fyple.com/category/organisations-government/polygraph-service/
+227,Organisations Government,Water Treatment Plants,https://www.fyple.com/category/organisations-government/water-treatment-plant/
+228,Organisations Government,Homeless Services,https://www.fyple.com/category/organisations-government/homeless-service/
+229,Organisations Government,Public Bathrooms,https://www.fyple.com/category/organisations-government/public-bathroom/
+230,Organisations Government,Clergymans,https://www.fyple.com/category/organisations-government/clergyman/
+231,Organisations Government,Womens Shelters,https://www.fyple.com/category/organisations-government/women-shelter/
+232,Organisations Government,Emergencies,https://www.fyple.com/category/organisations-government/emergency/
+233,Organisations Government,Emergency Call Booths,https://www.fyple.com/category/organisations-government/emergency-call-booth/
+234,Organisations Government,Health Support Organisations,https://www.fyple.com/category/organisations-government/health-support-organisation/
+235,Organisations Government,Infrastructures,https://www.fyple.com/category/organisations-government/infrastructure/
+236,Organisations Government,Voter Registration Offices,https://www.fyple.com/category/organisations-government/voter-registration-office/
+237,Organisations Government,Orphanages,https://www.fyple.com/category/organisations-government/orphanage/
+238,Organisations Government,Cultural & Educational Organisations,https://www.fyple.com/category/organisations-government/cultural-educational-organisation/
+239,Organisations Government,Family Welfare Organisations,https://www.fyple.com/category/organisations-government/family-welfare-organisation/
+240,Organisations Government,Localities,https://www.fyple.com/category/organisations-government/locality/
+241,Organisations Government,Water Navigations,https://www.fyple.com/category/organisations-government/water-navigation/
+242,Organisations Government,Sublocalities,https://www.fyple.com/category/organisations-government/sublocality/
+243,Food Drink,Restaurants,https://www.fyple.com/category/food-drink/restaurant/
+244,Food Drink,Food Retailers,https://www.fyple.com/category/food-drink/food-retailer/
+245,Food Drink,Bars and Pubs,https://www.fyple.com/category/food-drink/bar-and-pub/
+246,Food Drink,Clubs,https://www.fyple.com/category/food-drink/club/
+247,Food Drink,Food Equipment & Suppliers,https://www.fyple.com/category/food-drink/food-equipment-supplier/
+248,Food Drink,Catering,https://www.fyple.com/category/food-drink/catering/
+249,Food Drink,Food Manufacturing,https://www.fyple.com/category/food-drink/food-manufacturing/
+250,Food Drink,Cafes,https://www.fyple.com/category/food-drink/cafe/
+251,Food Drink,Sandwich Shops,https://www.fyple.com/category/food-drink/sandwich-shop/
+252,Food Drink,Wine Stores,https://www.fyple.com/category/food-drink/wine-store/
+253,Food Drink,Restaurant Equipment & Services,https://www.fyple.com/category/food-drink/restaurant-equipment-service/
+254,Food Drink,Tea Houses,https://www.fyple.com/category/food-drink/tea-house/
+255,Food Drink,Pizza Deliveries,https://www.fyple.com/category/food-drink/pizza-delivery/
+256,Food Drink,Tea Suppliers,https://www.fyple.com/category/food-drink/tea-supplier/
+257,Food Drink,Pretzel Stores,https://www.fyple.com/category/food-drink/pretzel-store/
+258,Food Drink,Rest Stops,https://www.fyple.com/category/food-drink/rest-stop/
+259,Food Drink,Take Away,https://www.fyple.com/category/food-drink/take-away/
+260,Business Service,Insurances,https://www.fyple.com/category/business-service/insurance/
+261,Business Service,Marketing,https://www.fyple.com/category/business-service/marketing/
+262,Business Service,Business to Business,https://www.fyple.com/category/business-service/business-to-business/
+263,Business Service,Printing,https://www.fyple.com/category/business-service/printing/
+264,Business Service,Human Resources,https://www.fyple.com/category/business-service/human-resource/
+265,Business Service,Office Services,https://www.fyple.com/category/business-service/office-service/
+266,Business Service,Wholesalers,https://www.fyple.com/category/business-service/wholesaler/
+267,Business Service,Shipping Services,https://www.fyple.com/category/business-service/shipping-service/
+268,Business Service,Promotional Products Suppliers,https://www.fyple.com/category/business-service/promotional-product-supplier/
+269,Business Service,Security Services,https://www.fyple.com/category/business-service/security-service/
+270,Business Service,Consultants,https://www.fyple.com/category/business-service/consultant/
+271,Business Service,Auction Houses,https://www.fyple.com/category/business-service/auction-house/
+272,Business Service,Record Storage Facilities,https://www.fyple.com/category/business-service/record-storage-facility/
+273,Business Service,Commercial Cleaning Services,https://www.fyple.com/category/business-service/commercial-cleaning-service/
+274,Business Service,Hauling Services,https://www.fyple.com/category/business-service/hauling-service/
+275,Business Service,Mailing Services,https://www.fyple.com/category/business-service/mailing-service/
+276,Business Service,Storage Facilities,https://www.fyple.com/category/business-service/storage-facility/
+277,Business Service,Private Investigators,https://www.fyple.com/category/business-service/private-investigator/
+278,Business Service,Public Relations,https://www.fyple.com/category/business-service/public-relation/
+279,Business Service,Training,https://www.fyple.com/category/business-service/training/
+280,Business Service,Meeting Rooms,https://www.fyple.com/category/business-service/meeting-room/
+281,Business Service,Distribution Services,https://www.fyple.com/category/business-service/distribution-service/
+282,Business Service,Logistics Services,https://www.fyple.com/category/business-service/logistics-service/
+283,Business Service,Courier Services,https://www.fyple.com/category/business-service/courier-service/
+284,Business Service,Translators,https://www.fyple.com/category/business-service/translator/
+285,Business Service,Shredding Services,https://www.fyple.com/category/business-service/shredding-service/
+286,Business Service,Small Business,https://www.fyple.com/category/business-service/small-business/
+287,Business Service,Satellite Communication Services,https://www.fyple.com/category/business-service/satellite-communication-service/
+288,Business Service,Diamond Dealers,https://www.fyple.com/category/business-service/diamond-dealer/
+289,Business Service,Conference Facilities & Halls,https://www.fyple.com/category/business-service/conference-facilities-hall/
+290,Business Service,Economic Development Agencies,https://www.fyple.com/category/business-service/economic-development-agency/
+291,Business Service,Diamond Buyers,https://www.fyple.com/category/business-service/diamond-buyer/
+292,Business Service,Paper Distributors,https://www.fyple.com/category/business-service/paper-distributor/
+293,Business Service,Energy & Environments,https://www.fyple.com/category/business-service/energy-environment/
+294,Business Service,Mapping Services,https://www.fyple.com/category/business-service/mapping-service/
+295,Business Service,International Trade Consultants,https://www.fyple.com/category/business-service/international-trade-consultant/
+296,Business Service,Management Consultants,https://www.fyple.com/category/business-service/management-consultant/
+297,Business Service,Mailbox Suppliers,https://www.fyple.com/category/business-service/mailbox-supplier/
+298,Business Service,Envelope Suppliers,https://www.fyple.com/category/business-service/envelope-supplier/
+299,Business Service,Scale Suppliers,https://www.fyple.com/category/business-service/scale-supplier/
+300,Business Service,Health and Safety,https://www.fyple.com/category/business-service/health-and-safety/
+301,Business Service,Secretarial,https://www.fyple.com/category/business-service/secretarial/
+302,Business Service,Mailing Machine Suppliers,https://www.fyple.com/category/business-service/mailing-machine-supplier/
+303,Business Service,Scale Repair Services,https://www.fyple.com/category/business-service/scale-repair-service/
+304,Legal Financial,Lawyers,https://www.fyple.com/category/legal-financial/lawyer/
+305,Legal Financial,Financial Services,https://www.fyple.com/category/legal-financial/financial-service/
+306,Legal Financial,Banking,https://www.fyple.com/category/legal-financial/banking/
+307,Legal Financial,Legal Services,https://www.fyple.com/category/legal-financial/legal-service/
+308,Legal Financial,Accounting,https://www.fyple.com/category/legal-financial/accounting/
+309,Legal Financial,Mortgage Lenders,https://www.fyple.com/category/legal-financial/mortgage-lender/
+310,Legal Financial,Credit Unions,https://www.fyple.com/category/legal-financial/credit-union/
+311,Legal Financial,Resume Services,https://www.fyple.com/category/legal-financial/resume-service/
+312,Legal Financial,Liquidators,https://www.fyple.com/category/legal-financial/liquidator/
+313,Legal Financial,Federal Credit Unions,https://www.fyple.com/category/legal-financial/federal-credit-union/
+314,Legal Financial,Solicitors,https://www.fyple.com/category/legal-financial/solicitor/
+315,Sport Recreation,"Parks, Playgrounds & Recreation",https://www.fyple.com/category/sport-recreation/park-playground-recreation/
+316,Sport Recreation,Stores & Services,https://www.fyple.com/category/sport-recreation/store-service/
+317,Sport Recreation,Fitness,https://www.fyple.com/category/sport-recreation/fitness/
+318,Sport Recreation,Sport Instructors,https://www.fyple.com/category/sport-recreation/sport-instructor/
+319,Sport Recreation,Boats,https://www.fyple.com/category/sport-recreation/boat/
+320,Sport Recreation,Clubs & Organizations,https://www.fyple.com/category/sport-recreation/club-organization/
+321,Sport Recreation,Fishing,https://www.fyple.com/category/sport-recreation/fishing/
+322,Sport Recreation,Massages,https://www.fyple.com/category/sport-recreation/massage/
+323,Sport Recreation,Athletic Facilities,https://www.fyple.com/category/sport-recreation/athletic-facility/
+324,Sport Recreation,Dude Ranches,https://www.fyple.com/category/sport-recreation/dude-ranch/
+325,Computer Electronics,Audio & Video,https://www.fyple.com/category/computer-electronics/audio-video/
+326,Computer Electronics,Internet,https://www.fyple.com/category/computer-electronics/internet/
+327,Computer Electronics,Web,https://www.fyple.com/category/computer-electronics/web/
+328,Computer Electronics,Computer Repair Services,https://www.fyple.com/category/computer-electronics/computer-repair-service/
+329,Computer Electronics,Telecommunications Service Providers,https://www.fyple.com/category/computer-electronics/telecommunication-service-provider/
+330,Computer Electronics,IT Consultants,https://www.fyple.com/category/computer-electronics/it-consultant/
+331,Computer Electronics,Computer Stores,https://www.fyple.com/category/computer-electronics/computer-store/
+332,Computer Electronics,Electronics Stores,https://www.fyple.com/category/computer-electronics/electronic-store/
+333,Computer Electronics,Hardware Stores,https://www.fyple.com/category/computer-electronics/hardware-store/
+334,Computer Electronics,Securities,https://www.fyple.com/category/computer-electronics/security/
+335,Computer Electronics,Cell Phone Stores,https://www.fyple.com/category/computer-electronics/cell-phone-store/
+336,Computer Electronics,Computer & Software Development,https://www.fyple.com/category/computer-electronics/computer-system-software-development/
+337,Computer Electronics,Computer Security Services,https://www.fyple.com/category/computer-electronics/computer-security-service/
+338,Computer Electronics,Electrical Supply Stores,https://www.fyple.com/category/computer-electronics/electrical-supply-store/
+339,Computer Electronics,Computer Consulting,https://www.fyple.com/category/computer-electronics/computer-consulting/
+340,Computer Electronics,Data Recovery Services,https://www.fyple.com/category/computer-electronics/data-recovery-service/
+341,Computer Electronics,Electronics Repair Shops,https://www.fyple.com/category/computer-electronics/electronics-repair-shop/
+342,Computer Electronics,Computer Networking,https://www.fyple.com/category/computer-electronics/computer-networking/
+343,Computer Electronics,Electronic Parts Suppliers,https://www.fyple.com/category/computer-electronics/electronic-parts-supplier/
+344,Computer Electronics,Printer Repair Services,https://www.fyple.com/category/computer-electronics/printer-repair-service/
+345,Computer Electronics,Fax Services,https://www.fyple.com/category/computer-electronics/fax-service/
+346,Computer Electronics,Copier Repair Services,https://www.fyple.com/category/computer-electronics/copier-repair-service/
+347,Computer Electronics,Computer Training,https://www.fyple.com/category/computer-electronics/computer-training/
+348,Computer Electronics,Toner Cartridge Suppliers,https://www.fyple.com/category/computer-electronics/toner-cartridge-supplier/
+349,Computer Electronics,Telephone Stores,https://www.fyple.com/category/computer-electronics/telephone-store/
+350,Computer Electronics,GPS Suppliers,https://www.fyple.com/category/computer-electronics/gps-supplier/
+351,Arts Entertainment,Dance & Music,https://www.fyple.com/category/arts-entertainment/dance-music/
+352,Arts Entertainment,Photography,https://www.fyple.com/category/arts-entertainment/photography/
+353,Arts Entertainment,Museums,https://www.fyple.com/category/arts-entertainment/museum/
+354,Arts Entertainment,Event Planning,https://www.fyple.com/category/arts-entertainment/event-planning/
+355,Arts Entertainment,Parties,https://www.fyple.com/category/arts-entertainment/party/
+356,Arts Entertainment,Theatres,https://www.fyple.com/category/arts-entertainment/theatre/
+357,Arts Entertainment,Artists,https://www.fyple.com/category/arts-entertainment/artist/
+358,Arts Entertainment,Amusement Centers,https://www.fyple.com/category/arts-entertainment/amusement-center/
+359,Arts Entertainment,Entertainment,https://www.fyple.com/category/arts-entertainment/entertainment/
+360,Arts Entertainment,Libraries,https://www.fyple.com/category/arts-entertainment/library/
+361,Arts Entertainment,Radio & Television,https://www.fyple.com/category/arts-entertainment/radio-television/
+362,Arts Entertainment,Arts and Crafts,https://www.fyple.com/category/arts-entertainment/arts-crafts/
+363,Arts Entertainment,Fashion,https://www.fyple.com/category/arts-entertainment/fashion/
+364,Arts Entertainment,Fairgrounds,https://www.fyple.com/category/arts-entertainment/fairground/
+365,Arts Entertainment,Paintball,https://www.fyple.com/category/arts-entertainment/paintball/
+366,Arts Entertainment,Lapidary,https://www.fyple.com/category/arts-entertainment/lapidary/
+367,Arts Entertainment,Planetariums,https://www.fyple.com/category/arts-entertainment/planetarium/
+368,Travel Accommodation,Accommodation,https://www.fyple.com/category/travel-accommodation/accommodation/
+369,Travel Accommodation,Tourist & Travel Services,https://www.fyple.com/category/travel-accommodation/tourist-travel-service/
+370,Travel Accommodation,Airport Services,https://www.fyple.com/category/travel-accommodation/airport-service/
+371,Travel Accommodation,Tourist Attractions,https://www.fyple.com/category/travel-accommodation/tourist-attraction/
+372,Travel Accommodation,Camping,https://www.fyple.com/category/travel-accommodation/camping/
+373,Travel Accommodation,Tour Operators,https://www.fyple.com/category/travel-accommodation/tour-operator/
+374,Travel Accommodation,Resorts,https://www.fyple.com/category/travel-accommodation/resort/
+375,Travel Accommodation,Timeshare Agencies,https://www.fyple.com/category/travel-accommodation/timeshare-agency/
+376,Industry Agriculture,Manufacturing,https://www.fyple.com/category/industry-agriculture/manufacturing/
+377,Industry Agriculture,Farming,https://www.fyple.com/category/industry-agriculture/farming/
+378,Industry Agriculture,Companies,https://www.fyple.com/category/industry-agriculture/company/
+379,Industry Agriculture,Energy Suppliers,https://www.fyple.com/category/industry-agriculture/energy-supplier/
+380,Industry Agriculture,Forestry,https://www.fyple.com/category/industry-agriculture/forestry/
+381,Industry Agriculture,Propane Suppliers,https://www.fyple.com/category/industry-agriculture/propane-supplier/
+382,Industry Agriculture,Importers,https://www.fyple.com/category/industry-agriculture/importer/
+383,Industry Agriculture,Exporters,https://www.fyple.com/category/industry-agriculture/exporter/
+384,Industry Agriculture,Farmers Markets,https://www.fyple.com/category/industry-agriculture/farmer-market/
+385,Industry Agriculture,Iron Works,https://www.fyple.com/category/industry-agriculture/iron-work/
+386,Industry Agriculture,Foundries,https://www.fyple.com/category/industry-agriculture/foundry/
+387,Industry Agriculture,Industrial Vacuum Equipment Suppliers,https://www.fyple.com/category/industry-agriculture/industrial-vacuum-equipment-supplier/
+388,Industry Agriculture,Vineyards,https://www.fyple.com/category/industry-agriculture/vineyard/
+389,Industry Agriculture,Rubber & Plastic Products,https://www.fyple.com/category/industry-agriculture/rubber-plastic-product/
+390,Industry Agriculture,Windmills,https://www.fyple.com/category/industry-agriculture/windmill/
+391,Industry Agriculture,Agricultural Buildings,https://www.fyple.com/category/industry-agriculture/agricultural-building/
+392,Industry Agriculture,Coppersmiths,https://www.fyple.com/category/industry-agriculture/coppersmith/
+393,Industry Agriculture,Coalfields,https://www.fyple.com/category/industry-agriculture/coalfield/
+394,Industry Agriculture,Anodizers,https://www.fyple.com/category/industry-agriculture/anodizer/
+395,Industry Agriculture,Water Mills,https://www.fyple.com/category/industry-agriculture/water-mill/
+396,Real Estate,Estate Agents,https://www.fyple.com/category/real-estate/estate-agent/
+397,Real Estate,Residential Properties,https://www.fyple.com/category/real-estate/residential-property/
+398,Real Estate,Removals,https://www.fyple.com/category/real-estate/removal/
+399,Real Estate,"Apartments, Homes & Offices Rental",https://www.fyple.com/category/real-estate/apartment-home-office-rental/
+400,Real Estate,Property Managements,https://www.fyple.com/category/real-estate/property-management/
+401,Real Estate,Student Housing Centers,https://www.fyple.com/category/real-estate/student-housing-center/
+402,Real Estate,Homes,https://www.fyple.com/category/real-estate/home/
+403,Real Estate,Low Income Housing Programs,https://www.fyple.com/category/real-estate/low-income-housing-program/
+404,Real Estate,Factories & Warehouses,https://www.fyple.com/category/real-estate/factory-warehouse/
+405,Real Estate,Office Buildings,https://www.fyple.com/category/real-estate/office-building/
+406,Education,Schools,https://www.fyple.com/category/education/school/
+407,Education,Higher Education,https://www.fyple.com/category/education/higher-education/
+408,Education,Early Childhood Education,https://www.fyple.com/category/education/early-childhood-education/
+409,Education,Educational Services,https://www.fyple.com/category/education/educational-service/
+410,Education,Educational Administrations,https://www.fyple.com/category/education/educational-administration/
+411,Education,Vocational Education,https://www.fyple.com/category/education/vocational-education/
+412,Education,Special Education,https://www.fyple.com/category/education/special-education/
+413,Education,Educational Research,https://www.fyple.com/category/education/educational-research/
+414,Pet Animal,Pet Sitting,https://www.fyple.com/category/pet-animal/pet-sitting/
+415,Pet Animal,Animal Healthcares,https://www.fyple.com/category/pet-animal/animal-healthcare/
+416,Pet Animal,Pet Shops,https://www.fyple.com/category/pet-animal/pet-shop/
+417,Pet Animal,Pet Groomers,https://www.fyple.com/category/pet-animal/pet-groomer/
+418,Pet Animal,Horses,https://www.fyple.com/category/pet-animal/horse/
+419,Pet Animal,Pet Trainers,https://www.fyple.com/category/pet-animal/pet-trainer/
+420,Pet Animal,Pet Care,https://www.fyple.com/category/pet-animal/pet-care/
+421,Pet Animal,Animal Breeders,https://www.fyple.com/category/pet-animal/animal-breeder/
+422,Pet Animal,Animal Shelters,https://www.fyple.com/category/pet-animal/animal-shelter/
+423,Pet Animal,Animal Control Services,https://www.fyple.com/category/pet-animal/animal-control-service/
+424,Pet Animal,Taxidermists,https://www.fyple.com/category/pet-animal/taxidermist/
+425,Pet Animal,Pet Adoption Services,https://www.fyple.com/category/pet-animal/pet-adoption-service/
+426,Pet Animal,Animal Rescue Services,https://www.fyple.com/category/pet-animal/animal-rescue-service/
+427,Pet Animal,Aquariums,https://www.fyple.com/category/pet-animal/aquarium/
+428,Pet Animal,Animal Protection Organizations,https://www.fyple.com/category/pet-animal/animal-protection-organization/
+429,Pet Animal,Reptile Stores,https://www.fyple.com/category/pet-animal/reptile-store/
+430,Pet Animal,Pet Cemeteries,https://www.fyple.com/category/pet-animal/pet-cemetery/
+431,Pet Animal,Animal Dental Care,https://www.fyple.com/category/pet-animal/animal-dental-care/
+432,Pet Animal,Animal Watering Holes,https://www.fyple.com/category/pet-animal/animal-watering-hole/
+433,Pet Animal,Pet Portraits,https://www.fyple.com/category/pet-animal/pet-portrait/
+434,Landmark,Historical Places,https://www.fyple.com/category/landmark/historical-place/
+435,Landmark,ATM Locations,https://www.fyple.com/category/landmark/atm-location/
+436,Landmark,Historical Landmarks,https://www.fyple.com/category/landmark/historical-landmark/
+437,Landmark,Beaches,https://www.fyple.com/category/landmark/beach/
+438,Landmark,Bridges,https://www.fyple.com/category/landmark/bridge/
+439,Landmark,Quarry,https://www.fyple.com/category/landmark/quarry/
+440,Landmark,Monuments,https://www.fyple.com/category/landmark/monument/
+441,Landmark,Forest,https://www.fyple.com/category/landmark/forest/
+442,Landmark,Oilfields,https://www.fyple.com/category/landmark/oilfield/
+443,Landmark,Waterfalls,https://www.fyple.com/category/landmark/waterfall/
+444,Landmark,Statuary,https://www.fyple.com/category/landmark/statuary/
+445,Landmark,Reefs,https://www.fyple.com/category/landmark/reef/
+446,Landmark,Craters,https://www.fyple.com/category/landmark/crater/
+447,Landmark,Pond,https://www.fyple.com/category/landmark/pond/
+448,Landmark,Tower Communication Services,https://www.fyple.com/category/landmark/tower-communication-service/
+449,Landmark,Coral Reefs,https://www.fyple.com/category/landmark/coral-reef/
+450,Landmark,Air Traffic Control Towers,https://www.fyple.com/category/landmark/air-traffic-control-tower/
+451,Landmark,Wetlands,https://www.fyple.com/category/landmark/wetland/
+452,Landmark,Statues,https://www.fyple.com/category/landmark/statue/
+453,Landmark,Deserts,https://www.fyple.com/category/landmark/desert/
+454,Landmark,Shipping Port,https://www.fyple.com/category/landmark/shipping-ports/
+455,Landmark,Wells,https://www.fyple.com/category/landmark/well/
+456,Landmark,Clock Towers,https://www.fyple.com/category/landmark/clock-tower/
+457,Landmark,Mountains,https://www.fyple.com/category/landmark/mountain/
+458,Landmark,Rivers,https://www.fyple.com/category/landmark/river/
+459,Landmark,Grassland,https://www.fyple.com/category/landmark/grassland/
+460,Landmark,Hot Springs,https://www.fyple.com/category/landmark/hot-spring/
+461,Landmark,Harbors,https://www.fyple.com/category/landmark/harbor/
+462,Landmark,Lighthouses,https://www.fyple.com/category/landmark/lighthouse/
+463,Landmark,Ghost Towns,https://www.fyple.com/category/landmark/ghost-town/
+464,Landmark,Oceans,https://www.fyple.com/category/landmark/ocean/
+465,Landmark,Islands,https://www.fyple.com/category/landmark/island/
+466,Landmark,Reservations,https://www.fyple.com/category/landmark/reservation/
+467,Landmark,Asians,https://www.fyple.com/category/landmark/asian/
+468,Landmark,Springs,https://www.fyple.com/category/landmark/spring/
+469,Landmark,Mountain Range,https://www.fyple.com/category/landmark/mountain-range/
+470,Landmark,Natural Channels,https://www.fyple.com/category/landmark/natural-channel/
+471,Landmark,Reservoirs,https://www.fyple.com/category/landmark/reservoir/
+472,Landmark,Sinkholes,https://www.fyple.com/category/landmark/sinkhole/
+473,Landmark,River Banks,https://www.fyple.com/category/landmark/river-bank/
+474,Landmark,Mountain Peaks,https://www.fyple.com/category/landmark/mountain-peak/
+475,Landmark,Seasonal Rivers,https://www.fyple.com/category/landmark/seasonal-river/
+476,Landmark,Intersections,https://www.fyple.com/category/landmark/intersection/
+477,Landmark,Time Zone,https://www.fyple.com/category/landmark/time-zone/
+478,Landmark,Streams,https://www.fyple.com/category/landmark/stream/
+479,Landmark,Canyons,https://www.fyple.com/category/landmark/canyon/
+480,Landmark,Earthquake Epicenter,https://www.fyple.com/category/landmark/earthquake-epicenter/
+481,Landmark,Toll Booths,https://www.fyple.com/category/landmark/toll-booth/
+482,Landmark,Battle Sites,https://www.fyple.com/category/landmark/battle-site/
+483,Landmark,Distributaries,https://www.fyple.com/category/landmark/distributary/
+484,Landmark,Border Crossing Stations,https://www.fyple.com/category/landmark/border-crossing-station/
+485,Landmark,Oasis,https://www.fyple.com/category/landmark/oasis/
+486,Landmark,Plaza,https://www.fyple.com/category/landmark/plaza/
+487,Landmark,River Crossing,https://www.fyple.com/category/landmark/river-crossing/
+488,Landmark,Mountain Pass,https://www.fyple.com/category/landmark/mountain-pass/
+489,Landmark,Vegetations,https://www.fyple.com/category/landmark/vegetation/
+490,Landmark,Runways,https://www.fyple.com/category/landmark/runway/
+491,Landmark,Geysers,https://www.fyple.com/category/landmark/geyser/
+492,Landmark,Canals,https://www.fyple.com/category/landmark/canal/
+493,Landmark,Tidal Flats,https://www.fyple.com/category/landmark/tidal-flat/
+494,Landmark,Rapids,https://www.fyple.com/category/landmark/rapids/
+495,Landmark,National Reserves,https://www.fyple.com/category/landmark/national-reserve/
+496,Landmark,Swamps,https://www.fyple.com/category/landmark/swamp/
+497,Landmark,Bushland,https://www.fyple.com/category/landmark/bushland/
+498,Landmark,Mountain Slope,https://www.fyple.com/category/landmark/mountain-slope/
+499,Landmark,Natural Features,https://www.fyple.com/category/landmark/natural-feature/
+500,Landmark,Fortress,https://www.fyple.com/category/landmark/fortress/
+501,Landmark,Cape,https://www.fyple.com/category/landmark/cape/
+502,Landmark,Cliffs,https://www.fyple.com/category/landmark/cliff/
+503,Landmark,Dams,https://www.fyple.com/category/landmark/dam/
+504,Landmark,Butte,https://www.fyple.com/category/landmark/butte/
+505,Landmark,Hills,https://www.fyple.com/category/landmark/hill/
+506,Landmark,Shore,https://www.fyple.com/category/landmark/shore/
+507,Landmark,Tunnels,https://www.fyple.com/category/landmark/tunnel/
+508,Landmark,Volcano,https://www.fyple.com/category/landmark/volcano/
+509,Landmark,Ice Cap,https://www.fyple.com/category/landmark/ice-cap/
+510,Landmark,Terrains,https://www.fyple.com/category/landmark/terrain/
+511,Landmark,Delta,https://www.fyple.com/category/landmark/delta/
+512,Landmark,Plains,https://www.fyple.com/category/landmark/plain/
+513,Landmark,Estuaries,https://www.fyple.com/category/landmark/estuary/
+514,Landmark,Escarpments,https://www.fyple.com/category/landmark/escarpment/
+515,Landmark,Tectonic Faults,https://www.fyple.com/category/landmark/tectonic-fault/
+516,Landmark,Water Bodies,https://www.fyple.com/category/landmark/water-body/
+517,Landmark,Tarmac,https://www.fyple.com/category/landmark/tarmac/
+518,Landmark,Vista Points,https://www.fyple.com/category/landmark/vista-point/
+519,Landmark,Cove,https://www.fyple.com/category/landmark/cove/
+520,Landmark,Habitats,https://www.fyple.com/category/landmark/habitat/
+521,Landmark,Peninsula,https://www.fyple.com/category/landmark/peninsula/
