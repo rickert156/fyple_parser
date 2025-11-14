@@ -71,12 +71,12 @@ def parser_categories(url:str, category:str=None) -> None:
         list_complite_url = get_complite_categories_url()
         while True:
             count_requests+=1
-            first_session_page+=1
             head = header()
             full_url = f'{url}page/{count_requests}/'
             if full_url not in list_complite_url:
                 response = requests.get(full_url, headers=head)
                 status_code = response.status_code
+                first_session_page+=1
                 if status_code == 200:
                     bs = BeautifulSoup(response.text, 'lxml')
                     if first_session_page == 1:
